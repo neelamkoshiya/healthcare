@@ -6,11 +6,25 @@ In this example we will be extracting a wide range of tabular data and summarize
 
 ## Input and output 
 
+![input](tab.png)  --->>  !![input](sbar.png)
 
-
-
+## [Solution notebook](/usecase1.ipynb)
 
 # Healthcare Usecase 2:  - Extract data and create structured insights from medical history images and unstructured data.
 In this example we will be extracting text from medical history images and create medical insights and summary from it.
 
 ## Input and output 
+
+Example 1: 
+![input](hp1.png)  --->>  !![input](summary.png)
+
+Example 2: 
+![input](hp2.png)  --->>  !![input](soap.png)
+
+## [Solution notebook](/usecase2.ipynb)
+
+
+# Stay in touch and connect with me
+Connect and follow me on [Linkedin](https://www.linkedin.com/in/neelam-koshiya-3b8407120/)
+
+![input](linkedin.png)
