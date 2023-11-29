@@ -59,9 +59,11 @@ In this example we will be extracting text from medical history images and creat
 ## [Solution notebook](/usecase2.ipynb)
 
 # Run the solution
-Pre-requisite- You can run the solution in Sagemaker Studio notebooks. Ensure that your domain user has the permission to access bedrock and textract. 
+### Pre-requisite
+You can run the solution in Sagemaker Studio notebooks. Ensure that your domain user has the permission to access bedrock and textract. 
 You can check out more details : https://docs.aws.amazon.com/sagemaker/latest/dg/studio.html
 
+### Run the notebook
 Once the pre-requisite is taken care, you can git clone this repository and run the notebook in Sagemaker studio. The kernel can be Data Science 3.0 , python 3 and ml.t3medium.
 
 You can use the notebook as a baseline and iterate from there. 
