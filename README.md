@@ -6,7 +6,11 @@ In this example we will be extracting a wide range of tabular data and summarize
 
 ## Input and output 
 
-![input](tab.png)  --->>  !![input](sbar.png)
+Input            |  Output
+:-------------------------:|:-------------------------:
+![input](tab.png) |  ![input](sbar.png)
+
+
 
 ## [Solution notebook](/usecase1.ipynb)
 
@@ -15,11 +19,20 @@ In this example we will be extracting text from medical history images and creat
 
 ## Input and output 
 
-Example 1: 
-![input](hp1.png)  --->>  !![input](summary.png)
+### Example 1 
+Input            |  Output
+:-------------------------:|:-------------------------:
+![input](hp1.png) |  ![input](summary.png)
 
-Example 2: 
-![input](hp2.png)  --->>  !![input](soap.png)
+ 
+
+### Example 2
+
+Input            |  Output
+:-------------------------:|:-------------------------:
+![input](hp2.png) |  ![input](soap.png)
+
+
 
 ## [Solution notebook](/usecase2.ipynb)
 
