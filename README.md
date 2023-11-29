@@ -27,4 +27,4 @@ Example 2:
 # Stay in touch and connect with me
 Connect and follow me on [Linkedin](https://www.linkedin.com/in/neelam-koshiya-3b8407120/)
 
-![input](linkedin.png)
+![input](linkedin.jpg)
