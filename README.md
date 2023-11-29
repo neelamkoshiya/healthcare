@@ -40,4 +40,6 @@ Input            |  Output
 # Stay in touch and connect with me
 Connect and follow me on [Linkedin](https://www.linkedin.com/in/neelam-koshiya-3b8407120/)
 
-![input](linkedin.jpg)
+<a href="https://www.linkedin.com/in/neelam-koshiya-3b8407120/" rel="Follow me">![Neelam](linkedin.jpg)</a>
+
+
